@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-NL | Nicke lodeon Nederlands|  |
-https://www.youtube.com/c/NickelodeonNederlands/live
+AR | almajdchannels |  |
+https://www.youtube.com/@almajdchannels/live
