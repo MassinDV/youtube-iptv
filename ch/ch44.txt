@@ -1,6 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR |  CBCDrama |  |
-https://www.youtube.com/c/CBCDramaStream/live
+Fluffy Friends: Kids Song Show |  Kids TV |  |
+https://www.youtube.com/@fluffyfriendskidssongs/live
 
