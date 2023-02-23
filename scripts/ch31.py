@@ -13,12 +13,12 @@ def grab(url):
     response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://github.com/MassinDV/youtube-iptv-kids/contributors/main/assets/moose_na0.ts')
+            print('https://raw.githubusercontent.com/MassinDV/ureplaytv/main/HLSPlayer.net.ts')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            print('https://github.com/MassinDV/youtube-iptv-kids/contributors/main/assets/moose_na0.ts')
+            print('https://raw.githubusercontent.com/MassinDV/ureplaytv/main/HLSPlayer.net.ts')
             return
     end = response.find('.m3u8') + 5
     tuner = 100
