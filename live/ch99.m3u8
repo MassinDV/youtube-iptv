@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1677186985/ei/SIP3Y-OmOcS_8wSKkqvgBQ/ip/172.177.106.82/id/S4SH9kNxxig.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-q4fl6nzy.googlevideo.com/vprv/1/playlist_type/LIVE/mh/e6/mm/44/mn/sn-q4fl6nzy/ms/lva/mv/u/mvi/2/pl/23/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1677164359/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRQIhAJ3UOb0rYOHtIZicz6vQ7MYipGQQuzQwZ5ZTyXzVWb7kAiBtLH6XFc4h2p10-899LmMvW6oSYt6xnx1yxkOhCgDO9Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIga9HMsBM9coNFowcCQZx5p4noK2g8rFB44hJMBoNJKtUCIFGduO7RB8GZVvXoUvP12e7_NUkg4jDTvLdgybpr63qW/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/ureplaytv/main/HLSPlayer.net.ts
