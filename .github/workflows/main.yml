@@ -623,24 +623,6 @@ jobs:
           pwd
           chmod +x sh/ch99.sh
           ./sh/ch99.sh
-
-      - name: Main
-        run: |
-          pwd
-          chmod +x sh/ch100.sh
-          ./sh/ch100.sh
-
-      - name: Main
-        run: |
-          pwd
-          chmod +x sh/ch101.sh
-          ./sh/ch101.sh
-
-      - name: Main
-        run: |
-          pwd
-          chmod +x sh/ch102.sh
-          ./sh/ch102.sh
           
 
           
