@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/logos/main/redmon.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1683904375/ei/FwNeZOnoCMTj8wTAjrGYCw/ip/172.176.193.178/id/6ORrcsPHxh8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-aigzrn7e.googlevideo.com/vprv/1/playlist_type/LIVE/mh/ZZ/mm/44/mn/sn-aigzrn7e/ms/lva/mv/u/mvi/3/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1683881698/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRgIhAKwUC4wZQWtFM8ewkCj0tTTDMq6qSwqZJnZ3KJIId30XAiEA--gb1vWxu4RCnksWsazSE23K__hHYM0_Zd1XJ36OK_M%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAJA_lZT9cHuYVwXXFozj-pCsC7-msxyW_jhO7qG_9PszAiEA9rHNiwWkmXHwi2Bbq1kg_FxBYewYkaw3-YSyxgCESjE%3D/playlist/index.m3u8
