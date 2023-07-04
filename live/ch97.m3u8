@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://dl.dropboxusercontent.com/s/icv7mb38uywusgj/morocco-sport-3.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1688534152/ei/KKikZP6fD9mbkwbe6Zy4BA/ip/13.88.116.241/id/Q2qYiOobjUk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-a5meknsd.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq_-B8ZAkoczI0lldQFL17CbdgZcYK-Y0CfLyYQ/vprv/1/playlist_type/DVR/mh/BF/mm/44/mn/sn-a5meknsd/ms/lva/mv/u/mvi/2/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362687,51000024/beids/24350018/mt/1688511180/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgXRBLAzVjR-6JF1iaCcwboPaVDS4qa46ODpWO6JfCescCIBvfs6gD1pxyRmz-0uOl6cojCMKsoKXBaEEeRyG1vo9G/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgYRkH9xE4BY8tJWEHxbcoeCu7x63CEMOqAm2Twmm7h80CIQC7qhruvI4NJs5ZGqKAdTkFTtrgnz6SZTtzstFrNUYpyA%3D%3D/playlist/index.m3u8
