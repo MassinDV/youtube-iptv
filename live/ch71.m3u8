@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/logos/main/redmon.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1689240535/ei/d2-vZIvqHKuh_tcPuoOOiA8/ip/40.84.171.159/id/H8pHQUu9G-Y.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-q4fl6n6s.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/us/spc/Ul2Sq3bBJ5yPp2idfCTdN9VM_XcIKKlrbOZbfeCg4w/vprv/1/playlist_type/DVR/initcwndbps/1956250/mh/Sa/mm/44/mn/sn-q4fl6n6s/ms/lva/mv/m/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362688,24363392/mt/1689218434/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgdrUMfSK2ip5CsEEFWyyveL1zpCAySibm4xPWyALOvjUCIQD1U8PmxgYnm0fIttuDhnAomvV5eVaRX1kKcHpG5Pv_rw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAOTx4Sqlgt0H8lJY5Yvr_59HriqEitYVz1XY-GASnU8HAiEA-MseIDdfvFrbZDO_Xd27arrFTDR4rhC4Sy-IY02GZBg%3D/playlist/index.m3u8
