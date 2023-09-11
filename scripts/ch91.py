@@ -13,7 +13,7 @@ def grab(url):
     response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://raw.githubusercontent.com/MassinDV/youtube-iptv/main/assets/offlintv.m3u8')
+            print('https://raw.githubusercontent.com/MassinDV/videos/main/morocco/rtm1tnt.m3u8')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
