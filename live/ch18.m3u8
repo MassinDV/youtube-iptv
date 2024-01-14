@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/paw-patrol.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705220955/ei/-0ajZa-UGbvrsfIPhImt6AM/ip/13.91.69.165/id/zB5zBQiB_j4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-a5mekndl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_4-zTuNWvTbVpMC67TvZvTmQqgTaBAtIFV6D6dmB0c/vprv/1/playlist_type/DVR/mh/2q/mm/44/mn/sn-a5mekndl/ms/lva/mv/u/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1705199019/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgY6haGcuLnVbKD1icbb8vWepPhdoniisZdMplstilT_gCIQCxGjL4X3-97es08JhI46XnkElFSCaW_eQqOG7DySGW6w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgao18T-se8MYWvo47YWbLh3OCu-p76fQ-0jWZqVhm5LwCIFNuRbisrMKhJL-uRUHDNXaBCuGi8e-Peu9rGLVqPei-/playlist/index.m3u8
