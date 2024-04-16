@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/peppa-pig-tv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713287399/ei/h1weZqXRIYXmir4P_8OLsAs/ip/172.183.148.32/id/8nQYd0--NUg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0qxZDbDm-ksPv0cbhWYdtrqzUB_jDjKJ7WLfepbqHvFNbY6XoIfCCgZ/vprv/1/playlist_type/DVR/mh/ED/mm/44/mn/sn-vgqsrnld/ms/lva/mv/u/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713265713/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJpCCV0V_74HSO_Mxi_XIaC4D9-Ns4Vj19gxym52C6MEAiEAyEXdJTeLj8QnE6tegvou9H4Z7D3dFjgqZIIwwhgzdUA%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAPo1F-KfO0PHAKMsNPdNUuWUes3jpEepd8Xu_8h2Xq33AiAciL6TojOPS7bZ5xxbzBS-uPzdFN60sOI_4BjNxbAIyw%3D%3D/playlist/index.m3u8
