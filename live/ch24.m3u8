@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/spin-kids.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713896599/ei/N6gnZuPMKby4sfIPho-a4AI/ip/4.227.115.134/id/0KQ6tgxScb4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-a5mekndz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7sAWPziioleNK5rp-RAylPeJiwo7AtUXk5BwzYT9yl5rF6kIvCp67Av/vprv/1/playlist_type/DVR/mh/v9/mm/44/mn/sn-a5mekndz/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1713873931/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIm9ZszzcPf7_d2zGGbRpbSXflBNxLA7uSXfH_spRl1fAiEAvvmcx4Vb9koOecvXqhFpz-sDHcYcpLlUxthy11y-3Cc%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgCiX9JOiP4522BJi3xFH_32HC6jFvJ2PDkFgjRDmUC9MCIArhK8ZvtNrX6_gE5XcfGEVDTt2XsGmrNkDlVnmWUI7W/playlist/index.m3u8

@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/n1ckel0de0n-nederlands.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713896580/ei/I6gnZtmWOoGCsfIPj-ilsA0/ip/4.227.115.134/id/eYHl_OmsFIY.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-a5meknds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_pNoYcILqgRZZ8HmnKRRvFptq0-qeiRaXKc_eVAPCGgKsp-l37gc4_M/vprv/1/playlist_type/DVR/mh/WH/mm/44/mn/sn-a5meknds/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/mt/1713873931/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhALDCi8QTHO_AVO0f4lV6TYhnI-WZQl_iKzyBP8HRXroyAiEArzRp8_a6qmllsb9w8scm3msNbBjgdcBS3tXfmDr8Dv4%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKKHAZkiNVrj4R00pMJuB7p2cB4WPl665mEM2k735EHiAiEAilFecGvQLM7fUzxTc305U00MR4Isz-qw7Lsf-EuJcyg%3D/playlist/index.m3u8
