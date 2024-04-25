@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/n1ckel0de0n-en-espanol-2.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714036383/ei/P8opZv76IL2oybgPgfahsAE/ip/20.102.214.3/id/XS5v_1Q1PG0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsknlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-InfR0OKtjlgLgcxAZ03y5cF-V18bQ-juK9Wyg6Vta8v-LSiGClGUTE/vprv/1/playlist_type/DVR/mh/9L/mm/44/mn/sn-vgqsknlr/ms/lva/mv/u/mvi/1/pl/23/dover/11/pacing/0/keepalive/yes/mt/1714014468/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgXbiDbRWZQL7EHCdSz-lQZaD0As1SR5HC_2owudHhWQwCIHSjMsUOIDpOotd0fJVWcWAwednq4YrcDGnbybV3SVjq/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgCGgPCt3OI-ANROXoeXNHdAmLwR4C7YAzHZAVcFnHnCcCIQDIqJFg1-UBJSGbIRyIqzbZtVaVIv7r6i6otbZJqFa_Xw%3D%3D/playlist/index.m3u8
