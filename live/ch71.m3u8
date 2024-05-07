@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/kidsland.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715084293/ei/pcc5ZqilJ_WWkucP45CV0Ao/ip/20.55.118.217/id/97Y53LN472k.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknlk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/oF/mm/44/mn/sn-vgqsknlk/ms/lva/mv/u/mvi/3/pl/23/dover/11/pacing/0/keepalive/yes/mt/1715062028/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgPupUB9d71OKJqAqoU7aB79e4sK7_3GEoH--v3hVRvz0CIGBg-VVht649vDj3d3SZ5B3bCuyCrOW7qIwp4Xmy-b8W/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAIGjKi6dIFtgBDL5upXhSfJf5Ojfb6lEZ6qBq7okz_tIAiEA7MWq303X69W8A0z3uqV7uxiVufs_DfXmf15S6d5c70Q%3D/playlist/index.m3u8
