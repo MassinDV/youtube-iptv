@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/n1ckel0de0n-deutschland2.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715181162/ei/CkI7ZrqqDdq3ir4PwtK4oAc/ip/172.183.148.16/id/tWL252s07aE.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsknzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/MI/mm/44/mn/sn-vgqsknzz/ms/lva/mv/u/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/mt/1715159244/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgP5rE9ExbFUaSYUA8cxzBzZC8n6EGBAavlCO58qZpo10CICo8zdSOtOUlAmpmG14o57JshUK7dfNMcIZy3EZ7dUV1/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhALV1zm8AdJi1FZTr0hKK6lB8YKefB2et2MCdgV6ms2OoAiEApyrHGkHL8WlY4kCPWavN3PQXQoTG2Xvc_jY4hDnFZJw%3D/playlist/index.m3u8
