@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/n1ckel0de0n-en-espanol-2.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716923686/ei/xthVZq3kCImCir4PntiVgAk/ip/172.183.147.227/id/a6B_xQxafhU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsknls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1301250/mh/gL/mm/44/mn/sn-vgqsknls/ms/lva/mv/m/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716901721/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgXhyhRnO51_NHXVrY1KmjHB3AWylNBJmA_ybqagcuDMcCIGYHYaMQIk0dffajxpLSg1UG5KWlBf6PMIotRMg5c1-i/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAIT47gNR3QC57YjBSVhlhwF5I1zGNrR09KJuTbvZ7hGWAiEAli8iFzvnD4c1ILXL6l3Rq057fep0LcBQgnQcU9_DhkY%3D/playlist/index.m3u8
