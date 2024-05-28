@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/n1ckel0de0n-arabia1.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716905841/ei/EZNVZrW5HbWpsfIP68CH8Aw/ip/52.234.38.34/id/Ab3BBSTf-gs.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5mekn6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/ls/mm/44/mn/sn-a5mekn6d/ms/lva/mv/u/mvi/4/pl/23/dover/11/pacing/0/keepalive/yes/mt/1716883084/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAINjHZH8Q4XStPH-_VFrnS9RLOh7MgNkGNGHrblHCTIaAiBnxhN92Txqko_C5v9DikIr_wyj6RGmqE4zZWpsTjZq1Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgPt7f0WFhKEfKBNSP6AJWTPucwFZBkM_Fy3GhNtD8mxgCICzY-BLeURGSiVO4vpWPTW73kvQs66-VM9kdQ3J4QsKO/playlist/index.m3u8
