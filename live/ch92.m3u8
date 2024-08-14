@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723652209/ei/EYS8Zor2Ir-UsfIPkq3AyAc/ip/52.234.38.43/id/ekdP5a9hftM.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5msener.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9qmZ6p6Nl4qMBX8elkI90N81A9OuYfNMPo7cXARAQdpSA0gbwhAlWS05AEo/vprv/1/playlist_type/DVR/mh/GG/mm/44/mn/sn-a5msener/ms/lva/mv/u/mvi/1/pl/23/dover/11/pacing/0/keepalive/yes/mt/1723630021/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAN0PkAowKcjFkXlz-_-4EabwGjpZ9bYbA8Yoo82ns8nfAiEA4Yu4ERLJ4dcnWcVRFUwlMjEgGw1qGBvXB1ndm2XfODQ%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgc5rUU0c_mbj7I_TOBvOkl-u7a5KoGJZeznLJ72KrT6ACIQC9FTpNUM-x5yY7emO1FLV38FtPzD2jJhD3rXjBnlYeNQ%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/babyzoo.m3u8
