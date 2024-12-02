@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 AR | IRAQIYA IKHBARIYA|  |
-https://www.youtube.com/c/IMNnews/live
+https://www.youtube.com/channel/UC5h9SokuzgNiebEOzU2BHoA/live
